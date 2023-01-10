@@ -9,3 +9,4 @@ https://github.com/nihilus/idaplugs<br/>
 2. IDA-omf2pat-master.zip<br/>
 IDA FLAIR helpers for making .SIG files from Borland sources by servil<br/>
 https://github.com/nihilus/IDA-omf2pat<br/>
+<C++ 95.0%> <Perl 5.0%><br/>
